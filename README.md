@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
