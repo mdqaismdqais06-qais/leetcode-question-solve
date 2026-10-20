@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,10 +47,12 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0045-jump-game-ii) |
 ## Recursion
 |  |
 | ------- |
