@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0049-group-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +47,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +66,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/mdqaismdqais06-qais/leetcode-question-solve/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
